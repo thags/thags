@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Tyler! aka @thags
 - 👀 I’m interested in learning Full Stack Web Development and Game Development
 - 🌱 I’m currently learning C# backend with Visual studio code. 
-- 🏫 Also currently laerning Spanish!
+- 🏫 Also currently learning Spanish!
 - 🥅 My goal for 2022 is to get a job in the software development sector, and to have learned conversational spanish.
 - ⚡ Currently working on building various projects and building a portfolio.
 
